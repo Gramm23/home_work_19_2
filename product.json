@@ -1,0 +1,210 @@
+[
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "product_name": "Есентуки-17",
+      "description": "Минеральная вода",
+      "image": "",
+      "category": "Напитки",
+      "unit_price": 75,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "product_name": "Шишкин лес",
+      "description": "Вода",
+      "image": "",
+      "category": "Напитки",
+      "unit_price": 95,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+      "product_name": "Майонез Rico",
+      "description": "65% жирности",
+      "image": "",
+      "category": "Приправы",
+      "unit_price": 90,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "product_name": "Корица",
+      "description": "Молотая",
+      "image": "",
+      "category": "Приправы",
+      "unit_price": 75,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+      "product_name": "Аленка",
+      "description": "Шоколад",
+      "image": "",
+      "category": "Кондитерские изделия",
+      "unit_price": 55,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 6,
+    "fields": {
+      "product_name": "Сникерс",
+      "description": "Шоколадный батончик",
+      "image": "",
+      "category": "Кондитерские изделия",
+      "unit_price": 45,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 7,
+    "fields": {
+      "product_name": "Гауда",
+      "description": "45% жирности",
+      "image": "",
+      "category": "Молочные продукты",
+      "unit_price": 55,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 8,
+    "fields": {
+      "product_name": "Пешехонский",
+      "description": "35% жирности",
+      "image": "",
+      "category": "Молочные продукты",
+      "unit_price": 47,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 9,
+    "fields": {
+      "product_name": "Щебекинские",
+      "description": "Макароны",
+      "image": "",
+      "category": "Зерно/Крупы",
+      "unit_price": 60,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 10,
+    "fields": {
+      "product_name": "Бородинский",
+      "description": "Хлеб",
+      "image": "",
+      "category": "Зерно/Крупы",
+      "unit_price": 80,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 11,
+    "fields": {
+      "product_name": "Филе бедра",
+      "description": "Индейка",
+      "image": "",
+      "category": "Мясо/Птица",
+      "unit_price": 369,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 12,
+    "fields": {
+      "product_name": "Филе грудки",
+      "description": "Индейка",
+      "image": "",
+      "category": "Мясо/Птица",
+      "unit_price": 395,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 13,
+    "fields": {
+      "product_name": "Ананасы",
+      "description": "Сушеные кольцами",
+      "image": "",
+      "category": "Продукция",
+      "unit_price": 75,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 14,
+    "fields": {
+      "product_name": "Творог",
+      "description": "Соевый",
+      "image": "",
+      "category": "Продукция",
+      "unit_price": 75,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 15,
+    "fields": {
+      "product_name": "Филе минтая",
+      "description": "Комчатка",
+      "image": "",
+      "category": "Морепродукты",
+      "unit_price": 147,
+      "created_at": "",
+      "updated_at": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 16,
+    "fields": {
+      "product_name": "Тигровые креветки",
+      "description": "Владивосток",
+      "image": "",
+      "category": "Морепродукты",
+      "unit_price": 675,
+      "created_at": "",
+      "updated_at": ""
+    }
+  }
+]
